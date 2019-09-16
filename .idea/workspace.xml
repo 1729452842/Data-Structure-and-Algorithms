@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbfa2fc6-40fa-423b-a831-dd9cff63e51e" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day00_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/Emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/EmpLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/HashTab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/HashTabDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/Boy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/CircleSingleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/DoubleLinkedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/HeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/HeroNode1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/HeroNode2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/Josepfu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/SingLikedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/SingLikedList1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/SingLikedListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/TestStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/queue/ArrayQue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/queue/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/queue/CircleArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/queue/CircleArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/recursion/MiGong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/recursion/Queue8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/recursion/RecursionTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/search/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/search/FibonacciSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/search/InsertValueSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/search/SeqSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/InsertSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/MergetSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/RedixSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/SelectSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/ShellSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sparsearray/SparseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sparsearray/map.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/ArrayStack1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/ArrayStackDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/PolandNotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/tree/BinaryTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/tree/BinaryTreeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/tree/HeroNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/tree/Test1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/hashtab/HashTabDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/DoubleLinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/Josepfu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingLikedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/queue/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/queue/CircleArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/recursion/MiGong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/recursion/Queue8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/recursion/RecursionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/FibonacciSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/InsertValueSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/SeqSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/MergetSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/RedixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sparsearray/SparseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sparsearray/map.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/stack/ArrayStackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/stack/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/stack/PolandNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/BinaryTreeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/Test1.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/day00_test$BubbleSort.ic" NAME="BubbleSort Coverage Results" MODIFIED="1565784340019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.sort.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/day00_test$PolandNotation.ic" NAME="PolandNotation Coverage Results" MODIFIED="1565278959135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.stack.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/day00_test$QuickSort.ic" NAME="QuickSort Coverage Results" MODIFIED="1566046220062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.sort.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/day00_test$Queue8.ic" NAME="Queue8 Coverage Results" MODIFIED="1565700124615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.atguigu.recursion.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="FibonacciSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/search/FibonacciSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1161">
+              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashTabDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/hashtab/HashTabDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3861">
+              <caret line="146" column="22" selection-start-line="146" selection-start-column="22" selection-end-line="146" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/tree/BinaryTreeDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/atguigu/tree/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/atguigu/sparsearray/SparseArray.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/queue/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/queue/CircleArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingLikedList.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/linkedlist/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingLikedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/linkedlist/DoubleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/linkedlist/TestStack.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/linkedlist/Josepfu.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/stack/ArrayStackDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/stack/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/stack/PolandNotation.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/recursion/RecursionTest.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/recursion/MiGong.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/recursion/Queue8.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/sort/SelectSort.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/sort/ShellSort.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/sort/MergetSort.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/sort/RedixSort.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/search/SeqSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/search/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/search/InsertValueSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/search/FibonacciSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/hashtab/HashTabDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/tree/BinaryTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/atguigu/tree/Test1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="720" />
+    <option name="y" value="26" />
+    <option name="width" value="1046" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day00_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day00_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day00_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day00_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day00_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day00_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://G:/JAVA/ADS/day00_test/src/com/atguigu/hashtab/HashTabDemo.java" />
+    <property name="ToolWindow调试.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Test1.test1">
+    <configuration name="BinaryTreeDemo" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.tree.BinaryTreeDemo" />
+      <module name="day00_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FibonacciSearch" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.search.FibonacciSearch" />
+      <module name="day00_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="HashTabDemo" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.hashtab.HashTabDemo" />
+      <module name="day00_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.hashtab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="InsertValueSearch" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.search.InsertValueSearch" />
+      <module name="day00_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day00_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.atguigu.tree" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.tree.Test1" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.InsertValueSearch" />
+      <item itemvalue="应用程序.FibonacciSearch" />
+      <item itemvalue="应用程序.HashTabDemo" />
+      <item itemvalue="应用程序.BinaryTreeDemo" />
+      <item itemvalue="JUnit.Test1.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test1.test1" />
+        <item itemvalue="应用程序.BinaryTreeDemo" />
+        <item itemvalue="应用程序.HashTabDemo" />
+        <item itemvalue="应用程序.FibonacciSearch" />
+        <item itemvalue="应用程序.InsertValueSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbfa2fc6-40fa-423b-a831-dd9cff63e51e" name="默认的" comment="" />
+      <created>1564578538163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564578538163</updated>
+      <workItem from="1564578539384" duration="5888000" />
+      <workItem from="1564629273233" duration="603000" />
+      <workItem from="1564655096601" duration="9924000" />
+      <workItem from="1564714990689" duration="126000" />
+      <workItem from="1564745560906" duration="17009000" />
+      <workItem from="1564774789312" duration="6258000" />
+      <workItem from="1565094302558" duration="9523000" />
+      <workItem from="1565147291332" duration="4000" />
+      <workItem from="1565178589353" duration="8720000" />
+      <workItem from="1565233862160" duration="64000" />
+      <workItem from="1565270211405" duration="7653000" />
+      <workItem from="1565342523133" duration="4000" />
+      <workItem from="1565359130420" duration="5709000" />
+      <workItem from="1565364961511" duration="54000" />
+      <workItem from="1565404235926" duration="428000" />
+      <workItem from="1565696239836" duration="6380000" />
+      <workItem from="1565750330293" duration="4000" />
+      <workItem from="1565782921567" duration="6766000" />
+      <workItem from="1565836404529" duration="29000" />
+      <workItem from="1565869819064" duration="8341000" />
+      <workItem from="1565928226510" duration="9000" />
+      <workItem from="1565933721112" duration="523000" />
+      <workItem from="1566042966483" duration="8643000" />
+      <workItem from="1566051996521" duration="2573000" />
+      <workItem from="1566096027757" duration="52000" />
+      <workItem from="1566127725111" duration="599000" />
+      <workItem from="1566191575744" duration="266000" />
+      <workItem from="1566217821077" duration="1006000" />
+      <workItem from="1566270843084" duration="34000" />
+      <workItem from="1566307250131" duration="3834000" />
+      <workItem from="1566377451541" duration="4000" />
+      <workItem from="1566477020549" duration="4009000" />
+      <workItem from="1566561590923" duration="6739000" />
+      <workItem from="1566618273058" duration="623000" />
+      <workItem from="1567256445745" duration="5338000" />
+      <workItem from="1567324062207" duration="6000" />
+      <workItem from="1567340079951" duration="5132000" />
+      <workItem from="1567411636400" duration="599000" />
+      <workItem from="1567473718112" duration="277000" />
+      <workItem from="1568460135876" duration="2951000" />
+      <workItem from="1568528733053" duration="9000" />
+      <workItem from="1568549325975" duration="2717000" />
+      <workItem from="1568629030617" duration="804000" />
+      <workItem from="1568635827637" duration="1190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SingLikedListDemo_test - 2019.08.03 at 04h 00m 16s.xml">
+      <configuration name="SingLikedListDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingLikedListDemo_test - 2019.08.03 at 04h 02m 49s.xml">
+      <configuration name="SingLikedListDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingLikedListDemo_test - 2019.08.03 at 04h 04m 29s.xml">
+      <configuration name="SingLikedListDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingLikedListDemo_test - 2019.08.03 at 04h 05m 51s.xml">
+      <configuration name="SingLikedListDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingLikedListDemo_test - 2019.08.03 at 04h 14m 24s.xml">
+      <configuration name="SingLikedListDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingLikedListDemo_test - 2019.08.03 at 04h 15m 35s.xml">
+      <configuration name="SingLikedListDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingLikedListDemo_test - 2019.08.03 at 04h 32m 46s.xml">
+      <configuration name="SingLikedListDemo.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test1 - 2019.09.16 at 18h 19m 18s.xml">
+      <configuration name="Test1.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test1 - 2019.09.16 at 18h 19m 28s.xml">
+      <configuration name="Test1.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test1_test1 - 2019.09.16 at 18h 19m 47s.xml">
+      <configuration name="Test1.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="141424000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" auto_hide="true" x="3" y="3" width="1914" height="1034" id="调试" order="13" sideWeight="0.49946353" weight="0.3318535" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50107294" side_tool="true" weight="0.24417314" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="运行" order="10" sideWeight="0.49892703" weight="0.381798" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32963374" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="控制板" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17918456" />
+      <window_info id="设计师" order="2" />
+      <window_info anchor="right" id="Database" order="3" sideWeight="0.49942595" weight="0.3299356" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49942595" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="找到" order="12" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="消息" order="9" weight="0.32852387" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.50057405" side_tool="true" weight="0.3299356" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/linkedlist/SingLikedListDemo.java</url>
+          <line>166</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/linkedlist/Test.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/linkedlist/Test.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/stack/Calculator.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/recursion/RecursionTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/recursion/MiGong.java</url>
+          <line>139</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/recursion/Queue8.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/recursion/Queue8.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/sort/RedixSort.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/test/Test.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/search/FibonacciSearch.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/atguigu/search/FibonacciSearch.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="75" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="left" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sparsearray/map.data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/linkedlist/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sparsearray/SparseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="101" column="9" selection-start-line="101" selection-start-column="9" selection-end-line="101" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="43" column="38" selection-start-line="8" selection-start-column="8" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/queue/CircleArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/linkedlist/TestStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sparsearray/map.data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/linkedlist/SingLikedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4455">
+          <caret line="167" column="25" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1668#1678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sparsearray/SparseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="101" column="9" selection-start-line="101" selection-start-column="9" selection-end-line="101" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="43" column="38" selection-start-line="8" selection-start-column="8" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sparsearray/map.data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/queue/CircleArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sparsearray/SparseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="101" column="9" selection-start-line="101" selection-start-column="9" selection-end-line="101" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="43" column="38" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sparsearray/map.data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/queue/CircleArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sparsearray/SparseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sparsearray/SparseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="55" column="9" lean-forward="true" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sparsearray/map.data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sparsearray/SparseArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="101" column="9" selection-start-line="101" selection-start-column="9" selection-end-line="101" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="43" column="38" selection-start-line="8" selection-start-column="8" selection-end-line="43" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/queue/CircleArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/linkedlist/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/linkedlist/SingLikedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1668#1678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/linkedlist/DoubleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/linkedlist/TestStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/linkedlist/Josepfu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="73" column="9" selection-start-line="73" selection-start-column="9" selection-end-line="73" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/stack/ArrayStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="41" selection-start-line="41" selection-end-line="86" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/stack/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/stack/PolandNotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/recursion/RecursionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/recursion/MiGong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4617">
+          <caret line="171" column="13" selection-start-line="171" selection-start-column="13" selection-end-line="171" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30294">
+          <caret line="1182" selection-start-line="1182" selection-end-line="1182" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/recursion/Queue8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="22" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sort/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="22" column="48" selection-start-line="10" selection-start-column="8" selection-end-line="22" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sort/MergetSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="26" column="48" selection-start-line="14" selection-start-column="8" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sort/RedixSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="5" column="22" selection-start-line="3" selection-start-column="7" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/search/SeqSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/search/InsertValueSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/search/FibonacciSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/hashtab/HashTabDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3861">
+          <caret line="146" column="22" selection-start-line="146" selection-start-column="22" selection-end-line="146" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/tree/BinaryTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/atguigu/tree/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
