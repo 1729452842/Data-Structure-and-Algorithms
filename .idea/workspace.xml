@@ -1,97 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbfa2fc6-40fa-423b-a831-dd9cff63e51e" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day00_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/Emp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/EmpLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/HashTab.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/HashTabDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/Boy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/CircleSingleLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/DoubleLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/DoubleLinkedListDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/HeroNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/HeroNode1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/HeroNode2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/Josepfu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/SingLikedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/SingLikedList1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/SingLikedListDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/TestStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/queue/ArrayQue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/queue/ArrayQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/queue/CircleArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/queue/CircleArrayQueue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/recursion/MiGong.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/recursion/Queue8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/recursion/RecursionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/search/BinarySearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/search/FibonacciSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/search/InsertValueSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/search/SeqSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/InsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/MergetSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/RedixSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/SelectSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sort/ShellSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sparsearray/SparseArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sparsearray/map.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/ArrayStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/ArrayStack1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/ArrayStackDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/Operation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/PolandNotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/test/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/tree/BinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/tree/BinaryTreeDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/tree/HeroNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/tree/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/hashtab/HashTabDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/DoubleLinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/Josepfu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/SingLikedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/linkedlist/TestStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/queue/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/queue/CircleArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/recursion/MiGong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/recursion/Queue8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/recursion/RecursionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/FibonacciSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/InsertValueSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/search/SeqSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/MergetSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/RedixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sort/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sparsearray/SparseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/sparsearray/map.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/stack/ArrayStackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/stack/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/stack/PolandNotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/BinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/atguigu/tree/Test1.java" afterDir="false" />
-    </list>
+    <list default="true" id="fbfa2fc6-40fa-423b-a831-dd9cff63e51e" name="默认的" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -169,11 +79,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/atguigu/tree/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -224,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/com/atguigu/hashtab/HashTabDemo.java" />
         <option value="$PROJECT_DIR$/src/com/atguigu/tree/BinaryTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/com/atguigu/tree/Test1.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -443,7 +363,7 @@
       <workItem from="1568528733053" duration="9000" />
       <workItem from="1568549325975" duration="2717000" />
       <workItem from="1568629030617" duration="804000" />
-      <workItem from="1568635827637" duration="1431000" />
+      <workItem from="1568635827637" duration="1681000" />
     </task>
     <servers />
   </component>
@@ -480,7 +400,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141665000" />
+    <option name="totallyTimeSpent" value="141915000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -626,9 +546,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/atguigu/sparsearray/map.data">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/atguigu/linkedlist/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2106">
@@ -977,6 +894,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
