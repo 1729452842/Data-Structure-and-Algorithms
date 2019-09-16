@@ -26,10 +26,13 @@ public class BinaryTreeDemo {
 
         System.out.println("后序遍历");
         binaryTree.postOrder();
-        */
+
         System.out.println("前序遍历查找："+binaryTree.preOrderSearch(7));
         System.out.println("中序遍历查找："+binaryTree.infixOrderSearch(4));
         System.out.println("后续遍历查找："+binaryTree.postOrderSearch(2));
+        */
+        binaryTree.delNode(4);
+        binaryTree.preOrder();
 
 
 
@@ -92,6 +95,19 @@ class BinaryTree{
         }
     }
 
+    public void delNode(int no){
+        if(root != null){
+            if(root.getNo() == no){
+                root = null;
+            }else {
+                this.root.delNode(no);
+            }
+
+        }else {
+            System.out.println("二叉树为空，无法删除节点！！！");
+        }
+    }
+
 }
 
 class HeroNode {
@@ -142,6 +158,32 @@ class HeroNode {
         return "HeroNode{" +
                 "no=" + no +
                 ", name='" + name+"}";
+    }
+
+
+    //递归删除节点
+    public void delNode(int no){
+
+        if(this.left != null && this.left.no == no){
+            this.left = null;
+            return;
+        }
+
+        if(this.right != null &&this.right.no == no){
+            this.right = null;
+            return;
+        }
+
+        if(this.left != null){
+            this.left.delNode(no);
+        }
+
+        if(this.right != null){
+            this.right.delNode(no);
+        }
+
+
+
     }
 
     //前序遍历
