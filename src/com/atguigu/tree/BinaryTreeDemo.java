@@ -28,11 +28,11 @@ public class BinaryTreeDemo {
         binaryTree.postOrder();
 
         System.out.println("前序遍历查找："+binaryTree.preOrderSearch(7));
-        System.out.println("中序遍历查找："+binaryTree.infixOrderSearch(4));
+        System.out.println("中序遍历查找："+binaryTree.infixOrderSearch(4)); */
         System.out.println("后续遍历查找："+binaryTree.postOrderSearch(2));
-        */
-        binaryTree.delNode(4);
-        binaryTree.preOrder();
+
+       // binaryTree.delNode(4);
+       // binaryTree.preOrder();
 
 
 
