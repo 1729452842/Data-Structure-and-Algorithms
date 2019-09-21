@@ -25,6 +25,8 @@ public class ThreadedBinaryTreeDemo {
         System.out.println("left:"+left);
         System.out.println("right:"+right);
 
+        //System.out.println("使用线索化的方式遍历线索化二叉树");
+        //threadedBinaryTree.threadedList();
     }
 
 }
@@ -40,6 +42,25 @@ class ThreadedBinaryTree{
 
     public void threadedNodes(){
         threadedNodes(root);
+    }
+
+    public void threadedList(){
+        HeroNode node = root;
+        while(node != null){
+
+            while (node.getLeftType() == 0){
+                node = node.getLeft();
+            }
+
+            System.out.println(node);
+
+            while (node.getRightType() == 1){
+                node = node.getRight();
+                System.out.println(node);
+            }
+
+            node = node.getRight();
+        }
     }
     //中序线索化的方法
     public void threadedNodes(HeroNode node) {
