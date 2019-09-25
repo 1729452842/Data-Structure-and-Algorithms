@@ -2,7 +2,6 @@ package com.atguigu.hashtab;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
-
 public class HashTabDemo {
 
     public static void main(String[] args) {
