@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbfa2fc6-40fa-423b-a831-dd9cff63e51e" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/hashtab/HashTabDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/hashtab/HashTabDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/Emp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/Emp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/EmpLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/EmpLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/HashTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/HashTab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/HashTabDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/hashtab/HashTabDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/CircleSingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/CircleSingleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/DoubleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/SingLikedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/SingLikedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/SingLikedList1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/SingLikedList1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/SingLikedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/SingLikedListDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/TestStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/linkedlist/TestStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/queue/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/queue/ArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/queue/CircleArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/queue/CircleArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/search/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sparsearray/SparseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/sparsearray/SparseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/ArrayStackDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/ArrayStackDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/PolandNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/stack/PolandNotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/tree/HeroNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day00_test/com/atguigu/tree/HeroNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/atguigu/tree/ArrBinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/atguigu/tree/ArrBinaryTreeDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +80,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,7 +94,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test1.test1">
+  <component name="RunManager" selected="Application.ArrBinaryTreeDemo">
+    <configuration name="ArrBinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.tree.ArrBinaryTreeDemo" />
+      <module name="day00_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrBinaryTreeDemo" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.tree.ArrBinaryTreeDemo" />
       <module name="day00_test" />
@@ -83,28 +118,21 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="ArrayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.queue.ArrayQueue" />
+      <module name="day00_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinaryTreeDemo" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.atguigu.tree.BinaryTreeDemo" />
-      <module name="day00_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.tree.threadedbinarytree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="HashTabDemo" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.hashtab.HashTabDemo" />
-      <module name="day00_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.hashtab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ThreadedBinaryTreeDemo" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.tree.threadedbinarytree.ThreadedBinaryTreeDemo" />
       <module name="day00_test" />
       <extension name="coverage">
         <pattern>
@@ -132,10 +160,14 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ArrayQueue" />
+      <item itemvalue="Application.ArrBinaryTreeDemo" />
       <item itemvalue="JUnit.Test1.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrBinaryTreeDemo" />
+        <item itemvalue="Application.ArrayQueue" />
         <item itemvalue="JUnit.Test1.test1" />
       </list>
     </recent_temporary>
@@ -206,6 +238,9 @@
       <workItem from="1569152468842" duration="6000" />
       <workItem from="1569243913144" duration="598000" />
       <workItem from="1569419524312" duration="1027000" />
+      <workItem from="1569464249018" duration="83000" />
+      <workItem from="1570259703739" duration="1007000" />
+      <workItem from="1570261787742" duration="1156000" />
     </task>
     <servers />
   </component>
@@ -258,7 +293,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

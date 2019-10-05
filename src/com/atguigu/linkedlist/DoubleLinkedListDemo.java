@@ -50,6 +50,7 @@ class DoubleLinkedList{
             System.out.println(temp);
             temp = temp.next;
         }
+
     }
     //双向链表的添加
     public void add(HeroNode2 heroNode){
@@ -82,6 +83,7 @@ class DoubleLinkedList{
                 break;
             }
             temp = temp.next;
+
         }
         if (flag){
             temp.name=newHeroNode.name;

@@ -39,6 +39,7 @@ class ArrBinaryTree{
         if((index * 2 + 2) < arr.length){
             preOrder(2 * index + 2);
         }
+
     }
 
     public void infixOrder(int index){

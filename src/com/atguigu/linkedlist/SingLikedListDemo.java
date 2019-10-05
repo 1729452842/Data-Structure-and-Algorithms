@@ -80,7 +80,7 @@ public class SingLikedListDemo {
     }
      */
 
-    public static void reversetList(HeroNode head){
+    private static void reversetList(HeroNode head){
         if(head.next == null || head.next.next == null){
             return ;
         }
@@ -110,6 +110,7 @@ public class SingLikedListDemo {
         for (int i = 0; i < size - index; i++) {
             temp = temp.next;
         }
+
         return temp;
     }
 
