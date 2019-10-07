@@ -124,6 +124,7 @@ class DoubleLinkedList{
 
 
 class HeroNode2{
+
     public int no;
     public String name;
     public String nickname;
