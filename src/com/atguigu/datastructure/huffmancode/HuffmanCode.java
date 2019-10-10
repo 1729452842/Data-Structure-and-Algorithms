@@ -13,10 +13,46 @@ public class HuffmanCode {
 
         System.out.println("赫夫曼树：");
         Node huffmancode = createHuffmanTree(nodes);
-        huffmancode.preOrder();
-        //前序遍历
+        //huffmancode.preOrder();
+        getCodes(huffmancode);
+        System.out.println(huffmancodes);
+
     }
 
+    //生成赫夫曼树对应的赫夫曼编码
+    static Map<Byte, String> huffmancodes = new HashMap<Byte, String> ();
+
+    static StringBuilder build = new StringBuilder();
+
+    private static Map<Byte, String> getCodes(Node root){
+        if(root == null){
+            return null;
+        }
+        getCodes(root.left,"0",build);
+        getCodes(root.right, "1", build);
+        return huffmancodes;
+    }
+
+    /**
+     * 将传入的node节点的所有叶子节点的赫夫曼编码得到，并打入到hummanCodes集合中
+     * @param node  传入的节点
+     * @param code  路径：左子节点是0 右子节点1
+     * @param stringBuilder 用于拼接路径
+     */
+    private static void getCodes(Node node, String code, StringBuilder stringBuilder){
+        StringBuilder stringBuilder1 = new StringBuilder(stringBuilder);
+        stringBuilder1.append(code);
+        if(node != null){
+            if(node.data == null){  //非叶子结点
+                getCodes(node.left,"0",stringBuilder1);
+                getCodes(node.right,"1",stringBuilder1);
+            }else{
+                huffmancodes.put(node.data, stringBuilder1.toString());
+            }
+        }
+    }
+
+    //前序遍历
     private static void preOrder(Node root){
         if(root != null){
             root.preOrder();
