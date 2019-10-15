@@ -8,7 +8,7 @@ public class KMPAlgorithm {
 
         String s1 = "BBC ABCDAB ABCDABCDABDE";
         String s2 = "ABCDABD";
-        int[] next = kmpNext("AA");
+        int[] next = kmpNext("AAA");
         System.out.println(Arrays.toString(next));
 
     }

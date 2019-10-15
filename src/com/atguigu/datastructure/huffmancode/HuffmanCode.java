@@ -14,13 +14,51 @@ public class HuffmanCode {
         System.out.println("赫夫曼树：");
         Node huffmancode = createHuffmanTree(nodes);
         //huffmancode.preOrder();
-        getCodes(huffmancode);
-        System.out.println(huffmancodes);
+        Map<Byte, String> huffmanCodes1 = getCodes(huffmancode);
+        System.out.println(huffmanCodes);
 
+        byte[] huffmanCodeBytes = zip(contentBytes, huffmanCodes);
+        System.out.println(Arrays.toString(huffmanCodeBytes));
+    }
+
+    /**
+     *
+     * @param bytes 原始字符串对应的byte[]
+     * @param huffmanCodes  生成的赫夫曼编码map
+     * @return  返回赫夫曼编码处理后的byte数组
+     */
+    private static byte[] zip(byte[] bytes, Map<Byte, String> huffmanCodes){
+
+        StringBuilder stringBuilder = new StringBuilder();
+        for (byte b : bytes) {
+            stringBuilder.append(huffmanCodes.get(b));
+        }
+        System.out.println(stringBuilder);
+        int len;
+        if(stringBuilder.length() % 8 == 0){
+            len = stringBuilder.length() / 8;
+        }else{
+            len = stringBuilder.length() / 8 + 1;
+        }
+
+        byte [] huffmanCodeBytes = new byte [len];
+        int index = 0;
+        for (int i = 0; i < stringBuilder.length(); i+=8){
+            String strByte;
+            if(i + 8 > stringBuilder.length()){
+                strByte = stringBuilder.substring(i);
+            }else{
+                strByte = stringBuilder.substring(i, i+8);
+            }
+
+            huffmanCodeBytes[index] = (byte)Integer.parseInt(strByte, 2);
+            index++;
+        }
+        return huffmanCodeBytes;
     }
 
     //生成赫夫曼树对应的赫夫曼编码
-    static Map<Byte, String> huffmancodes = new HashMap<Byte, String> ();
+    static Map<Byte, String> huffmanCodes = new HashMap<Byte, String> ();
 
     static StringBuilder build = new StringBuilder();
 
@@ -30,7 +68,7 @@ public class HuffmanCode {
         }
         getCodes(root.left,"0",build);
         getCodes(root.right, "1", build);
-        return huffmancodes;
+        return huffmanCodes;
     }
 
     /**
@@ -47,7 +85,7 @@ public class HuffmanCode {
                 getCodes(node.left,"0",stringBuilder1);
                 getCodes(node.right,"1",stringBuilder1);
             }else{
-                huffmancodes.put(node.data, stringBuilder1.toString());
+                huffmanCodes.put(node.data, stringBuilder1.toString());
             }
         }
     }
